@@ -1,0 +1,1 @@
+tapSound = MediaPlayer.create(this, R.raw.tap_sound);
