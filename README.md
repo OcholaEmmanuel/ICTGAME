@@ -1,0 +1,1 @@
+ICT Game is a native Android application built with Java that combines a fast-paced reaction tap challenge with a two-player strategy checkers (draft) board game. The app features persistent high-score tracking, interactive drag-and-drop mechanics, custom turn timers, and integrated Android App Links/Deep Linking support for direct screen navigation.
